@@ -1,4 +1,2 @@
 # coursera
-coursera
-,lmnb test repo
-xcvbjkl,
+coursera test repo
